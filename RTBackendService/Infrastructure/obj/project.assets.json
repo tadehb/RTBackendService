@@ -301,6 +301,16 @@
             "rid": "win"
           }
         }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
       }
     }
   },
@@ -988,11 +998,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Dapper >= 2.0.78",
+      "Domain >= 1.0.0",
       "Microsoft.Extensions.Configuration.Binder >= 5.0.0",
       "System.Data.SqlClient >= 4.8.2",
       "System.Runtime.Caching >= 5.0.0"
@@ -1024,7 +1040,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\RT\\RTBackendService\\RTBackendService\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Projects\\RT\\RTBackendService\\RTBackendService\\Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
