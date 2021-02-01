@@ -1,0 +1,9 @@
+D:\Projects\RT\RTBackendService\RTBackendService\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\Projects\RT\RTBackendService\RTBackendService\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Projects\RT\RTBackendService\RTBackendService\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\Projects\RT\RTBackendService\RTBackendService\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\Projects\RT\RTBackendService\RTBackendService\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\RT\RTBackendService\RTBackendService\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\Projects\RT\RTBackendService\RTBackendService\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\RT\RTBackendService\RTBackendService\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Projects\RT\RTBackendService\RTBackendService\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jVL/uac03vvwoTUYfnPatOE6Pm7Fy4nlwWijqlM1EwRR5c5UtSXktTTmvE6q9KiUCUPVSOlNYamMwiro13o9Yg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\RT\\RTBackendService\\RTBackendService\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t.boghosian\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

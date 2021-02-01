@@ -1,0 +1,9 @@
+D:\Projects\RT\RTBackendService\RTBackendService\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+D:\Projects\RT\RTBackendService\RTBackendService\Services\bin\Debug\netcoreapp3.1\Services.dll
+D:\Projects\RT\RTBackendService\RTBackendService\Services\bin\Debug\netcoreapp3.1\Services.pdb
+D:\Projects\RT\RTBackendService\RTBackendService\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+D:\Projects\RT\RTBackendService\RTBackendService\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+D:\Projects\RT\RTBackendService\RTBackendService\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+D:\Projects\RT\RTBackendService\RTBackendService\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+D:\Projects\RT\RTBackendService\RTBackendService\Services\obj\Debug\netcoreapp3.1\Services.dll
+D:\Projects\RT\RTBackendService\RTBackendService\Services\obj\Debug\netcoreapp3.1\Services.pdb

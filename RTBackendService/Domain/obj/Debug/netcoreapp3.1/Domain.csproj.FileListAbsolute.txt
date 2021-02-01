@@ -1,0 +1,9 @@
+D:\Projects\RT\RTBackendService\RTBackendService\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Projects\RT\RTBackendService\RTBackendService\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projects\RT\RTBackendService\RTBackendService\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projects\RT\RTBackendService\RTBackendService\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\Projects\RT\RTBackendService\RTBackendService\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Projects\RT\RTBackendService\RTBackendService\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Projects\RT\RTBackendService\RTBackendService\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Projects\RT\RTBackendService\RTBackendService\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Projects\RT\RTBackendService\RTBackendService\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
